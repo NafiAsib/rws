@@ -1,3 +1,3 @@
-#Responsive Personal Portfolio
+# Responsive Personal Portfolio
 ___
 Created using HUGO framework.
